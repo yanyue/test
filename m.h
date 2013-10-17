@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+
 void sort(int[] a, const int size) 
 {
 }
