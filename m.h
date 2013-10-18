@@ -1,2 +1,5 @@
+#include<stdio.h>
 
-inijij
+int main(int argc, char*[] argv) {
+	return 0;
+}
